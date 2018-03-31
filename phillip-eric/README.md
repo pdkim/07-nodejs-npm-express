@@ -16,6 +16,10 @@
 <!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples: -->
 
 03-31-2018 8:53am - Getting initial start on this.
+03-31-2018 9:20am - NPM initialized, express and nodemon installed and working.
+03-31-2018 9:35am - Created routes and 404 handling.
+03-31-2018 9:55am - Gone over review and comment sections.
+
 
 ## Credits and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
