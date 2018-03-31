@@ -5,6 +5,9 @@ const PORT = process.env.PORT || 3000;
 const app = express();
 const root = {root: 'public'};
 
+// COMMENTED: our files live in a public directory as that is what
+// we want to show our users. Express serves our files using the 
+// express.static()
 app.use(express.static('public'));
 
 app.get('/new', (req, res) => res.sendFile('/new.html', root));
